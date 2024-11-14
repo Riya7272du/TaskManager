@@ -1,9 +1,11 @@
 Q1)
 How long did you spend on the coding test?
+
 Ans) It took me about 22hrs, which was close to what I expected. I made sure to read through the requirements carefully and spent time verifying my solution.
 
 Q2)
 What was the most useful feature that was added to the latest version of your chosen language? Please include a snippet of code that shows how you've used it.
+
 Ans)
 In React 18, one of the most useful features for my task management application is automatic batching of state updates. This feature allows multiple state updates to be grouped together, which reduces unnecessary re-renders and improves the app’s performance. In a task management app where state changes frequently—like adding, updating, or deleting tasks—automatic batching helps ensure that the interface remains responsive and efficient.
 
@@ -45,6 +47,7 @@ setDueDate('');
 
 Q3)
 How would you track down a performance issue in production? Have you ever had to do this?
+
 Ans) To track down a performance issue in production for the task management application, I would follow these steps:
 
 1. Monitor Application Performance:
@@ -58,6 +61,7 @@ Ans) To track down a performance issue in production for the task management app
 
 Q4)
 If you had more time, what additional features or improvements would you consider adding to the task management application?
+
 Ans) If I had more time, here are some additional features and improvements I would consider adding to the task management application:
 
 1. User Authentication and Authorization:
