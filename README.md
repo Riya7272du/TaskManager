@@ -11,3 +11,16 @@ Show appropriate messages when no tasks match the status filter.
 Initially installed node and then create environment for react.
 
 Build the front page and create a block for add the task
+
+I Build up All tasks list , where there is checkbox which shows task is complete is it's tick mark otherwise not,
+and also there is 2 bars : One is Task Indicator and other is Priority Indicator.
+
+Task indicator:
+Active(ongoing tasks)
+Overdue(late tasks)
+Completed(completed tasks)
+
+Priority Indicator:
+low
+medium
+high
