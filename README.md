@@ -27,3 +27,6 @@ high
 
 To complete a task, simply click the checkbox. To delete or update a task, use the icons on the right side of each task; just click the relevant icon to perform the desired action.
 
+
+SETUP INSTRUCTION:
+install node moules in it with with help of command npm install
