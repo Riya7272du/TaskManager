@@ -7,3 +7,7 @@ Display active, overdue, and completed tasks.
 Update task title and description.
 Conditionally render tasks based on their status.
 Show appropriate messages when no tasks match the status filter.
+
+Initially installed node and then create environment for react.
+
+Build the front page and create a block for add the task
