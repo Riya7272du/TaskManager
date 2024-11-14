@@ -29,4 +29,5 @@ To complete a task, simply click the checkbox. To delete or update a task, use t
 
 
 SETUP INSTRUCTION:
-install node moules in it with with help of command npm install
+install node moules in it with with help of command 'npm install'.
+After completing 1st step then, Run the command npm start.  
